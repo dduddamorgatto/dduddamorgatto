@@ -1,15 +1,9 @@
 <div align="center">
 
-```
-██████╗ ██████╗ ██╗   ██╗██████╗ ██████╗
-██╔══██╗██╔══██╗██║   ██║██╔══██╗██╔══██╗
-██║  ██║██║  ██║██║   ██║██║  ██║██████╔╝
-██║  ██║██║  ██║██║   ██║██║  ██║██╔══██╗
-██████╔╝██████╔╝╚██████╔╝██████╔╝██║  ██║
-╚═════╝ ╚═════╝  ╚═════╝ ╚═════╝ ╚═╝  ╚═╝
-```
+<h1 align="center">MARIA EDUARDA</h1>
+<h3 algn="center">Back-end Developer</h3>
 
-### `< Front-End Developer />` · `[ ADS Student ]` · `{ Security Enthusiast }`
+### `< BACKEND Developer />` · `[ ADS Student ]` · `{ Security Enthusiast }`
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Transformando+ideias+em+interfaces+%F0%9F%9A%80;Building+interfaces+that+matter+%E2%9C%A8;Front-End+%7C+React+%7C+Angular+%7C+TypeScript;Always+learning%2C+always+building+%F0%9F%94%A5)](https://git.io/typing-svg)
 
