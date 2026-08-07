@@ -2,33 +2,6 @@
 
 <h1 align="center">MARIA EDUARDA</h1>
 <h3 algn="center">Back-end Developer</h3>
-<svg width="1200" height="250">
-<rect width="1200" height="250" fill="#0d1117"/>
-
-<text
-x="600"
-y="120"
-fill="#58a6ff"
-font-size="55"
-text-anchor="middle"
-font-family="Poppins">
-
-Backend Development
-
-</text>
-
-<text
-x="600"
-y="175"
-fill="#8b949e"
-font-size="24"
-text-anchor="middle">
-
-Java • Spring • .NET • Node.js • PostgreSQL
-
-</text>
-
-</svg>
 
 ### `< BACKEND Developer />` · `[ ADS Student ]` · `{ Security Enthusiast }`
 
