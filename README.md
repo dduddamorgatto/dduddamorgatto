@@ -17,16 +17,16 @@
 const dduddamorgatto = {
   nome: "dduddamorgatto",
   curso: "Análise e Desenvolvimento de Sistemas · 5º semestre",
-  foco: ["Front-End Development", "Cybersecurity"],
-  stack: ["React", "Angular", "TypeScript", "Tailwind CSS"],
-  atualmente: "Estudando segurança em aplicações web 🔐",
-  objetivo: "Criar interfaces modernas e seguras",
+  foco: ["Back-End Development"],
+  stack: ["Node.js Express","SQL","Git"],
+  atualmente: "Estudando Node.js, Express e SQL para transição ao Back-End",
+  objetivo: "Construir APIs e sistemas back-end robustos e escaláveis",
 
   // EN
   course: "Systems Analysis and Development · 5th semester",
-  focus: ["Front-End Development", "Cybersecurity"],
-  currently: "Studying web application security 🔐",
-  goal: "Build modern and secure interfaces",
+  focus: ["Back-End Development"],
+  currently: "Studying Node.js, Express and SQL for the transition to Back-End",
+  goal: "Build robust and scalable back-end systems and APIs",
 };
 ```
 
@@ -39,33 +39,17 @@ const dduddamorgatto = {
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
  ## 💻 Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-
-</div>
-
----
-
-## 🔐 Aprendendo / Currently Learning
-
-<div align="center">
-
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-00D9FF?style=for-the-badge&logo=hackthebox&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 </div>
 
 ---
