@@ -83,10 +83,8 @@ const dduddamorgatto = {
 ---
 
 <div align="center">
-
+  
 ```
-// Acredito que bom código e boa experiência do usuário andam juntos.
-// I believe good code and great user experience go hand in hand.
 ```
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=dduddamorgatto&color=00d9ff&style=flat-square&label=visitors)
