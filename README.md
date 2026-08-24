@@ -98,7 +98,7 @@ Sistema de gerenciamento de chamados/tickets desenvolvido para simular um fluxo 
 
 **🛠️ Stack:** Vue 3 · TypeScript · Pinia
 
-🔗 [Ver projeto ao vivo](COLOQUE_O_LINK_DO_VERCEL_AQUI) · 📂 [Código-fonte](COLOQUE_O_LINK_DO_REPO_AQUI)
+🔗 [Ver projeto ao vivo](COLOQUE_O_LINK_DO_VERCEL_AQUI) · 📂 [Código-fonte](https://github.com/dduddamorgatto/sistemas-de-chamados)
 
 ---
 </div>
