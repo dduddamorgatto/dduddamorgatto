@@ -88,5 +88,17 @@ const dduddamorgatto = {
 ```
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=dduddamorgatto&color=00d9ff&style=flat-square&label=visitors)
+---
 
+## 🚀 Projetos em Destaque / Featured Projects
+
+### 🎫 [Sistema de Chamados (Help Desk)](https://github.com/dduddamorgatto/sistemas-de-chamados)
+
+Sistema de gerenciamento de chamados/tickets desenvolvido para simular um fluxo real de suporte técnico, com autenticação, abertura, acompanhamento e resolução de chamados.
+
+**🛠️ Stack:** Vue 3 · TypeScript · Pinia
+
+🔗 [Ver projeto ao vivo](COLOQUE_O_LINK_DO_VERCEL_AQUI) · 📂 [Código-fonte](COLOQUE_O_LINK_DO_REPO_AQUI)
+
+---
 </div>
