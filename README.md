@@ -101,4 +101,14 @@ Sistema de gerenciamento de chamados/tickets desenvolvido para simular um fluxo 
 🔗 [Ver projeto ao vivo](COLOQUE_O_LINK_DO_VERCEL_AQUI) · 📂 [Código-fonte](https://github.com/dduddamorgatto/sistemas-de-chamados)
 
 ---
-</div>
+
+### 💱 [Conversor de Moedas](https://github.com/dduddamorgatto/conversor-de-moedas)
+
+Conversor de moedas de linha de comando com cotações em tempo real via API, suporte a mais de 150 moedas, validação de entradas e múltiplas conversões sem reiniciar o programa.
+
+**🛠️ Stack:** Python · requests · colorama
+
+📁 [Código-fonte](https://github.com/dduddamorgatto/conversor-de-moedas)
+
+---
+</div>---
